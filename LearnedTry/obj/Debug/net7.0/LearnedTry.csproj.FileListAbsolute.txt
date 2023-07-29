@@ -1,0 +1,7 @@
+C:\Users\SENE\Documents\ASP\LearnedTry\LearnedTry\obj\Debug\net7.0\LearnedTry.csproj.AssemblyReference.cache
+C:\Users\SENE\Documents\ASP\LearnedTry\LearnedTry\obj\Debug\net7.0\LearnedTry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENE\Documents\ASP\LearnedTry\LearnedTry\obj\Debug\net7.0\LearnedTry.AssemblyInfoInputs.cache
+C:\Users\SENE\Documents\ASP\LearnedTry\LearnedTry\obj\Debug\net7.0\LearnedTry.AssemblyInfo.cs
+C:\Users\SENE\Documents\ASP\LearnedTry\LearnedTry\obj\Debug\net7.0\LearnedTry.csproj.CoreCompileInputs.cache
+C:\Users\SENE\Documents\ASP\LearnedTry\LearnedTry\obj\Debug\net7.0\LearnedTry.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SENE\Documents\ASP\LearnedTry\LearnedTry\obj\Debug\net7.0\LearnedTry.MvcApplicationPartsAssemblyInfo.cache
